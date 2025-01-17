@@ -1,1 +1,2 @@
-# Covid-19-Detection-using-X-Ray
+
+This project is about deep learning techniques for medical image segmentation, focusing on chest X-ray analysis. Using custom CNNs, VGG-19, MobileNet, and ResNet models, we address challenges like poor classification accuracy and resolution. Our work evaluates various datasets and metrics to improve segmentation algorithms, highlighting the potential of advanced neural networks in medical imaging. This research aims to inspire future innovations in reliable and efficient medical image analysis. Out of all the models VGG-19 has performed best.
